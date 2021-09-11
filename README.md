@@ -23,3 +23,5 @@
 2. 命令行中通过pandoc -v的提示信息找到User data directory
 3. 将reference.docx文件复制到该文件夹下（注：该文件夹可能尚未存在，需要手动创建）
 4. 重启程序即可使用导出功能
+
+![image-20210911152513933](README.assets/image-20210911152513933.png)
