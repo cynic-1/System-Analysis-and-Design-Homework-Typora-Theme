@@ -28,3 +28,8 @@
 ![image-20210911152513933](README.assets/image-20210911152513933.png)
 
 **test文件夹内有test.md以及导出的word版本供参考**
+
+---
+
+**对于导出的word文档的表格列宽问题，可以使用pandoc命令行option`pandoc --from=markdown+multiline_tables source.md -o source.docx`**
+
